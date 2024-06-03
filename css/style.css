@@ -5,11 +5,11 @@
 
 main{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    margin: 75px;
+    margin: 100px;
 }
 
 footer{
-    margin: 75px;
+    margin: 100px;
 }
 
 .logo{
@@ -60,10 +60,17 @@ footer{
     padding-left: 1%;
 }
 
-.tabella{
+table{
     text-align: left;
     border-collapse: collapse;
-    
+}
+
+th{
+    color: white;
+}
+
+table td, table th{
+    padding: 30px;
 }
 
 .riga1{
@@ -96,3 +103,5 @@ footer{
     color: white;
     font-size: 2em;
 }
+
+
