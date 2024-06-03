@@ -1,0 +1,98 @@
+.container{
+    margin: 0;
+    
+}
+
+main{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 75px;
+}
+
+footer{
+    margin: 75px;
+}
+
+.logo{
+    width: 20%;
+    padding-top: 3%;
+}
+
+.background-logo{
+    background-image:url(../img/pattern.png);
+    background-color: lightskyblue;
+    background-size: contain;
+    background-size: 20%;
+}
+
+.gray{
+    color: gray;
+}
+
+.lightblue{
+    color: aqua;
+}
+
+.titolo{
+    
+    font-size: 4em;
+    padding-bottom: 0%;
+    margin-bottom: 0px;
+    
+}
+
+.photos{
+    margin-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.description{
+    font-size: 0.75em;
+}
+
+
+
+.evidenziato{
+    background: #FFFF00;
+}
+
+.lista{
+    margin-left: 0%;
+    padding-left: 1%;
+}
+
+.tabella{
+    text-align: left;
+    border-collapse: collapse;
+    
+}
+
+.riga1{
+    background: rgb(0, 127, 255);
+    
+}
+
+.riga2{
+    background: rgb(0, 249, 255);
+}
+
+.riga4{
+    background: rgb(0, 249, 255);
+}
+
+.penfoto{
+    background-image: url(../img/monitor.jpg);
+    width: 300px;
+    height: 250px;
+    
+}
+
+.ultfoto{
+    background-image: url(../img/graph.jpg);
+    width: 300px;
+    height: 250px;
+}
+
+#bianco{
+    color: white;
+    font-size: 2em;
+}
